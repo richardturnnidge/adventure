@@ -1,6 +1,6 @@
 Multi-room adventire engine
 
-Support for key control or joystick. Nunchcuk supported but currently disabled due to emulator issue.
+Support for key control (QAOP, arrows) or joystick. Nunchuck supported but currently disabled due to emulator conflict.
 
 Written in z80 assembler using Sublime text on Mac.
 Assembled with ez80asm.
