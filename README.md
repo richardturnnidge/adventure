@@ -2,6 +2,8 @@ Multi-room adventure engine
 
 Support for key control (QAOP, arrows) or joystick. Nunchuck joystick supported.
 
+If using the emulator, select the '_em' version as there is a conflict with Nunchuck, so that is removed from the emulator version.
+
 Written in z80 assembler using Sublime text on Mac.
 Assembled with ez80asm.
 
