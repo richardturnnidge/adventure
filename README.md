@@ -21,4 +21,6 @@ This ia still very much work in progress.
 
 Renamed to Escape...
 
+escape_02a.bin is latest version
+
 Richard Turnnidge @2024
