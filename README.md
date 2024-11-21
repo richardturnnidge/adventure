@@ -4,7 +4,7 @@ Multi-room adventure engine.
 
 Support for key control (QAOP, arrows) or joystick. Nunchuck joystick supported.
 
-If using the emulator, select the '_em' version as there is a conflict with Nunchuck, so that is removed from the emulator version.
+If using the emulator (prior to v.0.9.69), select the '_em' version as there was a conflict with i2c Nunchuck communications, so that is removed from the emulator version.
 
 Written in z80 assembler using Sublime text on Mac.
 Assembled with `ez80asm`.
@@ -22,7 +22,7 @@ Good luck!
 ![esc1](https://github.com/user-attachments/assets/8f303da6-a0d9-4013-8ea8-3ca16fd38a95)
 ![esc2](https://github.com/user-attachments/assets/96ddd1fd-2116-4c09-bce0-56f167b45669)
 
-This ia still very much work in progress.
+This is still work in progress, but very playable.
 
 escape_02a.bin is latest version
 
