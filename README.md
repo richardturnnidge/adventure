@@ -24,8 +24,6 @@ Good luck!
 
 This ia still very much work in progress.
 
-Renamed to Escape...
-
 escape_02a.bin is latest version
 
 ![esc3](https://github.com/user-attachments/assets/17576621-1b5e-437a-a5c2-c31d27f5b5dd)
